@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-4.15-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
+![Location](https://img.shields.io/badge/Location-Medell%C3%ADn-orange?style=flat)
+
 # Scraper de Restaurantes - Medellín
 
 Herramienta que desarrollé para extraer datos de restaurantes desde Google Maps. La idea surgió porque necesitaba automatizar la recolección de información para proyectos de análisis de mercado en Medellín.
